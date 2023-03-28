@@ -1,0 +1,42 @@
+.toots {
+ 	font-family: 'Fasthand', cursive !important; 
+ 	min-width: 100%;
+
+}
+
+.map {
+	min-width: 100vh;
+}
+
+
+}
+
+.intro {
+	min-height: 100vh;
+	min-width: 100vh;
+
+	
+}
+
+.bout {
+	min-height: 100vh;
+}
+
+
+.myproject {
+	min-height: 100vh;
+}
+
+/*.contactform {
+	min-height: 100vh;
+}
+
+
+
+@media (max-width: 820px) {
+	.w-md-100{
+		width: 100%!important;
+	}	
+}
+
+*/*/
